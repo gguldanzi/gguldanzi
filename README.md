@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/playstation3-003791?style=for-the-badge&logo=playstation3&logoColor=white">
   <img src="https://img.shields.io/badge/playstation4-003791?style=for-the-badge&logo=playstation4&logoColor=white">
   <img src="https://img.shields.io/badge/playstation5-003791?style=for-the-badge&logo=playstation5&logoColor=white">
-  <img src="https://img.shields.io/badge/playstation vita-003791?style=for-the-badge&logo=playstation5&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/playstation vita-003791?style=for-the-badge&logo=playstationvita&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/nintendo 3ds-D12228?style=for-the-badge&logo=nintendo3ds&logoColor=white">
   <img src="https://img.shields.io/badge/nintendo switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white">  
 
